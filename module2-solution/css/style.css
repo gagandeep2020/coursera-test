@@ -71,7 +71,7 @@ p {
 }
 
 /*media quries for mobile*/
-@media (max-width: 767px){
+@media only screen and (max-width: 767px){
 	.col-sm{
 		float: left;
 	}
